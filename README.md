@@ -1,2 +1,0 @@
-# programming
-Github_learning 
