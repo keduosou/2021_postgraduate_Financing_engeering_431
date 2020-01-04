@@ -76,7 +76,7 @@
 “中国金融四十人论坛”、
 “华尔街见闻”、
 “看懂经济”（原央行观察）等
-[建议参考书目](https://mp.weixin.qq.com/s?src=11&timestamp=1578138164&ver=2076&signature=r9NucaTTzQo4ate7zmdp34fxWQmRJXJzyfAKOdoNtkM0Y3hafXZOz0-6FsGnru0gxQViL2ZeXBgLdXo*JcxsyCBf2hXMcxKApJCAL7snfhZ3eUlBEcbocH07*UKU8GiK&new=1)
+[题型、经验分享](https://mp.weixin.qq.com/s?src=11&timestamp=1578138164&ver=2076&signature=r9NucaTTzQo4ate7zmdp34fxWQmRJXJzyfAKOdoNtkM0Y3hafXZOz0-6FsGnru0gxQViL2ZeXBgLdXo*JcxsyCBf2hXMcxKApJCAL7snfhZ3eUlBEcbocH07*UKU8GiK&new=1)
 《金融硕士大纲解析》 李国正 首都师范大学出版社
 《金融学-考研笔记，习题讲解，真题解析》 李国正 首都师范大学出版社
 《公司理财-考研笔记，习题讲解，真题解析》 李国正 首都师范大学出版社
