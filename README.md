@@ -9,7 +9,7 @@
 - Fianancing_431：431金融综合
 - Math：考研数学
 - English：考研英语
-- plog：记录着我每周的一些日常。
+- Plog：记录着我每周的一些日常。
 
 ### 考431的学校专业
 - [苏州大学](http://yjs.suda.edu.cn/8365/list.htm)金融工程研究所、东吴商学院
