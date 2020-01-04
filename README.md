@@ -13,4 +13,4 @@
 
 ### 考431的学校专业
 - [苏州大学](http://yjs.suda.edu.cn/8365/list.htm)金融工程研究所、东吴商学院
-- [上海大学](
+- [华东理工大学](http://gschool.ecust.edu.cn/)商学院专业学位中心
