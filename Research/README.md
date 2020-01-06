@@ -73,13 +73,13 @@
 2017 |  | 25 | 0 | 335
 
 ### 431考试题型
-### 经验贴[华理的招生老师也说过将来会重点发展量化金融这一块](https://mp.weixin.qq.com/s?src=11&timestamp=1578138163&ver=2076&signature=UoGe9M3lFqm3m51tB4tY69Y74DtmdNtsub9yUGyu51huvlDOTiWIOgI-LVGUXnyrg9zmxfty43HRxYWdPApnu9-WH2iNBc93qa*Si-UIW2Z0R3a*stQmZYPlrUIn0b10&new=1)
+### 经验贴[华理的招生老师也说过将来会重点发展量化金融这一块](http://www.sohu.com/a/341942178_100264781)
 有数学和计算机基础的同学将会有很大优势。今年整体的情况是：大概三分之一被成功录取的同学本科学的是完全和金融不相关的专业，比例还是很高的。
 公众号：
 “中国金融四十人论坛”、
 “华尔街见闻”、
 “看懂经济”（原央行观察）等
-[题型、经验分享](https://mp.weixin.qq.com/s?src=11&timestamp=1578138164&ver=2076&signature=r9NucaTTzQo4ate7zmdp34fxWQmRJXJzyfAKOdoNtkM0Y3hafXZOz0-6FsGnru0gxQViL2ZeXBgLdXo*JcxsyCBf2hXMcxKApJCAL7snfhZ3eUlBEcbocH07*UKU8GiK&new=1)
+[题型、经验分享](http://www.sohu.com/a/341942178_100264781)
 《金融硕士大纲解析》 李国正 首都师范大学出版社
 《金融学-考研笔记，习题讲解，真题解析》 李国正 首都师范大学出版社
 《公司理财-考研笔记，习题讲解，真题解析》 李国正 首都师范大学出版社
